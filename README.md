@@ -1,2 +1,2 @@
-# Digital_Documents
-Convert scanned documents using Optical Character Recognition (OCR) to txt file.
+# Digitize Documents
+Convert scanned documents using Optical Character Recognition (OCR) to txt files.
